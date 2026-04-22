@@ -1,11 +1,11 @@
 ## Hi I'm Michael. Welcome to my Github page 👋
 
 ## About me
-I’m a Master’s student in Computer Science at Aalborg University (AAU) Copenhagen, who is passionate about creating engaging and fun user experiences—especially in games and interactive applications.
+I’m a Master’s student in Computer Science at Aalborg University (AAU) Copenhagen who is passionate about creating engaging and fun user experiences—especially in games and interactive applications.
 
-I have experience developing innovative digital solutions, with skills such as programming, image and audio processing, 3D modeling, UX/UI design, and machine learning.
+I have experience developing innovative digital solutions with skills such as programming, image and audio processing, 3D modeling, UX/UI design, and machine learning.
 
-Through AAU’s problem-based learning (PBL) approach, I’ve gained strong experience working with agile methodologies like Scrum and collaborating in team-based projects. 
+Through AAU’s problem-based learning (PBL) approach, I've gained strong experience working with agile methodologies like Scrum and collaborating in team-based projects. 
 
 Learning how to work iteratively at AAU has also given me a solid understanding of the full development process—from design and implementation to evaluation.
 
