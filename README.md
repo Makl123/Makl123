@@ -11,7 +11,7 @@ Learning how to work iteratively at AAU has also given me a solid understanding 
 
 
 ## 🔨Skills
-C#, Python, Unity, Unreal Engine, Blueprint Visual Scripting, Blender
+C#, Python, Unity, XR Interaction Toolkit, Unreal Engine, Blueprint Visual Scripting, Blender
 
 
 ## 🎒Education
